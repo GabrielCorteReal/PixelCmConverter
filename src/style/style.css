@@ -13,7 +13,7 @@ body {
 
 #center{
 	width: 33%;
-	background-image: url(../src/Logo_UCS.png);
+	background-image: url(../img/Logo_UCS.png);
 	background-repeat: no-repeat;
 	background-size: 150px;
 	background-position: center;
@@ -30,7 +30,7 @@ body {
 	margin: auto;
 	width: 15%;
 	margin-top: 5%;
-	background-image: url(../src/fundo.png);
+	background-image: url(../img/fundo.png);
 	padding-right: 13%;
 	padding-left: 13%;
 	padding-top: 1%;
@@ -59,6 +59,7 @@ body {
 	font-size: 14px;
 	border: solid black 1px;
 	font-weight: bold;
+	cursor: pointer;
 }
 #resultado_titulo{
 	margin-top: 30%;
